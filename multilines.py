@@ -1,0 +1,15 @@
+import matplotlib.pyplot as plt
+import numpy as np
+x=np.linspace(0,10,100)
+y1=np.sin(x)
+y2=np.cos(x)
+y3=np.tan(x)
+plt.plot(x,y1,label='sin(x)',color='blue')
+plt.plot(x,y2,label='cos(x)',color='red')
+plt.plot(x,y3,label='tan(x)',color='green')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.title("multiple ines in a plot")
+plt.legend()
+plt.grid()
+plt.show()

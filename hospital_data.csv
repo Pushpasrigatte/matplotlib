@@ -1,0 +1,11 @@
+patient_id,Name,Age,Department,admission_date,bill
+P001,Viajy,25,corona,01-08-2025,20000
+P002,Aloha,30,cardiology,02-03-2025,70000
+P003,John,31,orthopedics,03-04-2025,15000
+P004,Doe,60,neurology,07-07-2025,5000
+P005,Eswar,25,neurology,05-08-2025,12500
+P006,arun,50,dermatology,04-08-2025,80000
+P007,arjun,45,dermatology,05-08-2025,65444
+P008,aruni,46,corona,06-08-2025,60000
+P009,taruni,68,pediatrics,07-08-2025,95000
+P010,harini,90,pediatrics,08-08-2025,43354
